@@ -1,0 +1,10 @@
+# IntelliJ IDEA의 개인 프로젝트 설정
+.idea/
+*.iml
+
+# Gradle이 자동 생성하는 캐시와 빌드 결과물
+.gradle/
+build/
+
+# 비밀번호 등 로컬 환경 설정
+.env
